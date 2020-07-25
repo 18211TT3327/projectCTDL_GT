@@ -1,0 +1,16 @@
+				*******HOA DON*******
+Loai GD: Chuyen Tien
+STK: 10101010101088
+Ten Chu The: Tokuda Shigeo
+So Tien Chuyen: 1000000VND
+So Du Con Lai: 4000000VND
+STK Nhan: 10101010101077
+Ten Chu The Nhan: Maria Ozawa
+						19:52:27 26/05/2019
+				*******HOA DON*******
+Loai GD: Rut Tien
+STK: 10101010101088
+Ten Chu The: Tokuda Shigeo
+So Tien Rut: 1000000VND
+So Du Con Lai: 3000000VND
+						20:22:44 26/05/2019

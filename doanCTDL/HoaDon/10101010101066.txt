@@ -1,0 +1,23 @@
+				*******HOA DON*******
+Loai GD: Rut Tien
+STK: 10101010101066
+Ten Chu The: Ngo Ngoc Dien
+So Tien Rut: 200000VND
+So Du Con Lai: 4800000VND
+						23:48:45 25/05/2019
+				*******HOA DON*******
+Loai GD: Nap Tien Online
+STK: 10101010101066
+Ten Chu The: Ngo Ngoc Dien
+So Tien Nap: 500000VND
+So Du Hien Tai: 5100000VND
+						01:18:06 26/05/2019
+				*******HOA DON*******
+Loai GD: Chuyen Tien
+STK: 10101010101066
+Ten Chu The: Ngo Ngoc Dien
+So Tien Chuyen: 200000VND
+So Du Con Lai: 4800000VND
+STK Nhan: 10101010101022
+Ten Chu The Nhan: Ngo Ba Kha
+						20:48:00 26/05/2019

@@ -1,0 +1,66 @@
+				*******HOA DON*******
+Loai GD: Nap Tien Online
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Nap: 200000VND
+So Du Hien Tai: 8200000VND
+						18:26:52 26/05/2019
+				*******HOA DON*******
+Loai GD: Nhan Tien
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Nhan: 200000VND
+So Du Hien Tai: 8100000VND
+STK Chuyen: 10101010101066
+Ten Chu The Chuyen: Ngo Ngoc Dien
+						20:48:00 26/05/2019
+				*******HOA DON*******
+Loai GD: Nhan Tien
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Nhan: 500000VND
+So Du Hien Tai: 8600000VND
+STK Chuyen: 10101010101033
+Ten Chu The Chuyen: Nguyen Van Thai
+						21:41:22 26/05/2019
+				*******HOA DON*******
+Loai GD: Nhan Tien
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Nhan: 200000VND
+So Du Hien Tai: 8800000VND
+STK Chuyen: 10101010101055
+Ten Chu The Chuyen: Cao Thanh Dat
+						22:00:40 26/05/2019
+				*******HOA DON*******
+Loai GD: Chuyen Tien
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Chuyen: 1000000VND
+So Du Con Lai: 7300000VND
+STK Nhan: 10101010101033
+Ten Chu The Nhan: Nguyen Van Thai
+						22:17:19 26/05/2019
+				*******HOA DON*******
+Loai GD: Chuyen Tien
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Chuyen: 1000000VND
+So Du Con Lai: 3000000VND
+STK Nhan: 10101010101044
+Ten Chu The Nhan: Ho Khac Linh
+						22:56:31 26/05/2019
+				*******HOA DON*******
+Loai GD: Nap Tien Online
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Nap: 500000VND
+So Du Hien Tai: 3500000VND
+						23:10:33 26/05/2019
+				*******HOA DON*******
+Loai GD: Rut Tien
+STK: 10101010101022
+Ten Chu The: Ngo Ba Kha
+So Tien Rut: 1000000VND
+So Du Con Lai: 3000000VND
+						23:14:21 26/05/2019

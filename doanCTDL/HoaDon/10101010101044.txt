@@ -1,0 +1,25 @@
+				*******HOA DON*******
+Loai GD: Rut Tien
+STK: 10101010101044
+Ten Chu The: Ho Khac Linh
+So Tien Rut: 1000000VND
+So Du Con Lai: 6000000VND
+						22:26:59 26/05/2019
+				*******HOA DON*******
+Loai GD: Nhan Tien
+STK: 10101010101044
+Ten Chu The: Ho Khac Linh
+So Tien Nhan: 1000000VND
+So Du Hien Tai: 6000000VND
+STK Chuyen: 10101010101033
+Ten Chu The Chuyen: Nguyen Van Thai
+						22:37:52 26/05/2019
+				*******HOA DON*******
+Loai GD: Nhan Tien
+STK: 10101010101044
+Ten Chu The: Ho Khac Linh
+So Tien Nhan: 1000000VND
+So Du Hien Tai: 7000000VND
+STK Chuyen: 10101010101022
+Ten Chu The Chuyen: Ngo Ba Kha
+						22:56:31 26/05/2019
